@@ -24,7 +24,7 @@
 其实用TensorFlow+Keras会简单一些但是TensorFlow版本兼容实在是太幽默了
 
 ## 如何使用
-运行以下上面的.ipynb文件, 等到它跑完就可以了, 方便得很, 哥
+运行一下上面的.ipynb文件, 等到它跑完就可以了, 方便得很, 哥
 
 主要的环境版本为 Python 3.8, PyTorch 1.10, NumPy 1.23.2
 
