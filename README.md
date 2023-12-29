@@ -10,8 +10,12 @@
 
 ## 关于数据集
 对于DBRHD数据集，大部分参考资料说的是[Pen-Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits)
+
 但是用的是[Optical Recognition of Handwritten Digits](https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits)
-这个不知道是什么原因，这里本人使用的是[Pen-Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits), 因为长得更像DBRHD的缩写。
+
+这个不知道是什么原因
+
+这里本人使用的是[Pen-Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits), 因为长得更像DBRHD的缩写。
 
 ## NumPy实现MLP
 该部分的代码基本来自[Numpy 手撸MLP](https://zhuanlan.zhihu.com/p/501743440), 点个赞同👍
