@@ -6,7 +6,7 @@
 1. KNN算法，可以采用sklearn库，也可以自己实现knn算法
 2. 全连接的神经网络模型，采用sklearn库中的神经网络函数
 3. 全连接的神经网络模型，只能采用Numpy库，不能采用任何其他的神经网络函数库
-4. CNN（卷积）神经网络模型，可以采用sklearn库中的神经网络函数，或者其他的神经网络函数库 (注意: sklearn没有CNN)
+4. CNN（卷积）神经网络模型，可以采用sklearn库中的神经网络函数，或者其他的神经网络函数库 (但是sklearn好像没有CNN......)
 
 ## 关于数据集
 对于DBRHD数据集，大部分参考资料说的是[Pen-Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits)
